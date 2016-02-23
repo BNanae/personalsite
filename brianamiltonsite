@@ -2,11 +2,16 @@
 <html>
 
 <head>
+	
 <title>Briana Milton Home Page</title>
 <link type="text/css" rel="StyleSheet" href="StyleSheet.css">
 </head>
 <body style="background-color:#243E7B;">
-<h1>Briana Milton</h1>
+<table style="width:100%">
+<tr>
+<td><h1> Briana Milton</h1></td>
+</tr>
+</table>
 <hr>
 <p>I would formally like to welcome you to my web page. I have created this page<br>
 to showcase the skills that I have obtained and will be obtaining throughtout my <br>
@@ -28,11 +33,19 @@ have a job  set up for myself right when I get out of school. I want to achieve 
 set goals for myself along my journey as I become a professional web designer. I know<br>
 that my mindset may change about things but for right now this is my dream and I plan<br>
 on reaching my goal.<br></p>
-<footer> 
+
 <img src="logo.png" alt="My logo" style="width:100px;height:100px" >
+
+<footer> 
 <br>
 &copy; All rights reserved Copyright of 2016 | Briana Milton | milt.briana@gmail.com</footer>
 
+<img id="cats2" src="cats.jpg" width="416" height="720" usemap="#cats2" alt="" />
+<map name="cats" id="cats">
+<area shape="rect" coords="414,718,416,720" alt="Image Map" style="outline:none;" title="Image Map" href="http://www.image-maps.com/index.php?aff=mapped_users_0" />
+<area  alt="" title="GoogleMaps" href="http://www.image-maps.com/" shape="poly" coords="82,214,87,205,81,193,80,176,82,170,96,171,110,172,117,175,125,175,149,178,173,178,185,177,205,172,217,164,222,158,246,165,253,171,263,171,276,176,305,210,314,236,316,253,317,270,317,280,332,283,343,303,359,328,361,343,358,362,355,374,338,382,325,375,326,362,326,348,327,333,316,311,311,295,307,306,305,313,301,315,283,313,295,317,271,311,251,310,232,311,203,316,182,321,175,322,173,313,160,311,135,309,116,311,104,310,98,310,89,316,84,313,85,297,75,288,73,272,72,256,73,242,79,224,62,232,65,218,73,229,72,220,62,219,58,233,69,236,69,216,65,225" style="outline:none;" target="_self"     />
+<area  alt="" title="GoogleImage2" href="http://www.image-maps.com/" shape="poly" coords="56,353,42,351,33,353,24,362,21,376,21,385,29,394,43,395,53,396,57,394,66,405,73,415,88,413,96,407,104,402,118,397,128,396,143,399,156,400,170,404,185,406,195,416,209,423,222,427,226,419,235,417,249,417,263,415,277,412,297,406,297,412,307,414,309,409,307,400,309,391,311,381,321,381,323,372,308,374,307,366,306,346,326,334,320,330,312,325,294,318,278,314,257,312,234,311,205,313,175,318,173,311,106,311,89,315,82,310,74,319,65,329" style="outline:none;" target="_self"     />
+</map>
 
 </body>
 </html>
