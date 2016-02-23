@@ -1,0 +1,14 @@
+h1{
+	background-color:#AA243E;
+	color:#A4B326;
+	
+}
+hr{
+	color:#AA243E;
+}
+h2{
+	color:#A4B326;
+}
+footer{
+	color:#A4B326;
+}
