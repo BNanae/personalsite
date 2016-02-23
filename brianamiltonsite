@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Briana Milton Home Page</title>
+<link type="text/css" rel="StyleSheet" href="StyleSheet.css">
+</head>
+<body style="background-color:#243E7B;">
+<h1>Briana Milton</h1>
+<hr>
+<p>I would formally like to welcome you to my web page. I have created this page<br>
+to showcase the skills that I have obtained and will be obtaining throughtout my <br>
+web design course. I would also like to give a big thanks for taking the time<br>
+to look at this beautiful tiny piece of the World Wide Web. I am very excited<br>
+to see where web design will take me. I hope you have a wonderful day!</p>
+<h2>Educational Goals</h2>
+<p>One of my bigger goals , once I graduate, is to attend Sinclair Commmunity<br> 
+College to gain a Web Programming Technical Certificate. Obtaining this certificate<br>
+will take about two years. Once I am done with my two years at Sinclair and have<br>
+gotten all my base classes done, another goal is to be able to transfer to Wright<br>
+State University and get a Computer Science Bachelor Degree. I am very confident<br>
+that I will conquer my goals and become a successful web designer.  </p>
+<h2>Employment Goal</h2>
+<p>I would like to be employed at a big company like google for web design mostly<br>
+to maintain websites and then have a secondary job for making websites for small<br>
+businesses. I want to get this type of job sometime before I graduate so I already<br>
+have a job  set up for myself right when I get out of school. I want to achieve and<br>
+set goals for myself along my journey as I become a professional web designer. I know<br>
+that my mindset may change about things but for right now this is my dream and I plan<br>
+on reaching my goal.<br></p>
+<footer> 
+<img src="logo.png" alt="My logo" style="width:100px;height:100px" >
+<br>
+&copy; All rights reserved Copyright of 2016 | Briana Milton | milt.briana@gmail.com</footer>
+
+
+</body>
+</html>
